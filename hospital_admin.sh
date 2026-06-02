@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Member 1: The Architect
 initialize_system() {
     if [ ! -d "active_logs" ]; then
@@ -17,3 +18,13 @@ initialize_system() {
         mkdir reports
     fi
 }
+
+secure_data() {
+    # Only the owner can read/write active_logs
+    chmod 600 active_logs
+    ls -l  # show the new permissions
+
+}
+initialize_system
+secure_data
+
