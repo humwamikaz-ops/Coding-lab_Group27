@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Member 1: The Architect
+# Member 1 - The Architect
+# This function initializes the KNH system directories
 initialize_system() {
     if [ ! -d "active_logs" ]; then
         echo "Creating active_logs directory..."
