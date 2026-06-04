@@ -7,5 +7,5 @@
 | 2 | [Name] | The Security Lead | logic-permissions 
 | 3 | [Name] | The Orchestrator | logic-orchestration 
 | 4 | [Name] | The Archivist | logic-archiving 
-| 5 | [Name] | Clinical Analyst | logic-analysis 
+| 5 | [Nziza Lael David] | Clinical Analyst | logic-analysis 
 | 6 | [Name] | Facility Auditor | logic-audit 
