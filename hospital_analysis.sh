@@ -10,7 +10,7 @@ water_audit() {
         total += $3
         count++
     }
-
+    # Calculate average usage
     END {
         if (count > 0) {
             avg = total / count
