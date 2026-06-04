@@ -1,8 +1,9 @@
 #!/bin/bash
-
+        # Check if log file exists
 water_audit() {
     echo "=== Water Usage Audit ==="
 
+    # Check if log file exists
     awk -F'|' '
     $2 ~ /ICU_WATER_RESERVE/ {
         gsub(/^[ \t]+|[ \t]+$/, "", $3)
