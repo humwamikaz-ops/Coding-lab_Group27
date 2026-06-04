@@ -1,11 +1,11 @@
 # Coding-lab_Group{XX} — KNH Digital Infrastructure
 
 ## Group Members & Roles
-| Member | Name | Role | 
-|--------|------|------|
-| 1 | [Umwamikazi Honorata] | The Architect |
-| 2 | [Eunice Iriza] | The Security Lead |
-| 3 | [Ndangamirwa Rwema Dylan] | The Orchestrator | 
-| 4 | [NameDavid Lael Nziza] | The Archivist |
-| 5 | [Elnathan Mulugeta Tenna] | Clinical Analyst |  
-| 6 | [Honorata] | Facility Auditor |
+| Member | Name | Role | Branch |
+|--------|------|------|--------|
+| 1 | [Umwamikazi Honorata] | The Architect | logic-setup 
+| 2 | [Name] | The Security Lead | logic-permissions 
+| 3 | [Name] | The Orchestrator | logic-orchestration 
+| 4 | [Name] | The Archivist | logic-archiving 
+| 5 | [Nziza Lael David] | Clinical Analyst | logic-analysis 
+| 6 | [Name] | Facility Auditor | logic-audit 
