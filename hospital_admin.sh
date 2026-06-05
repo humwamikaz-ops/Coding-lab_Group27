@@ -27,6 +27,9 @@ secure_data() {
     ls -l  # show the new permissions
 
 }
+
+# Execution logic (Member 3)
 initialize_system
 secure_data
 
+echo "System Environment Secured"
